@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DBpower"]
+	path = DBpower
+	url = https://github.com/cran/DBpower
+	shallow = true
+	registered = true
+[submodule "GBJ"]
+	path = GBJ
+	url = https://github.com/cran/GBJ
+	shallow = true
+	registered = true
+[submodule "GEint"]
+	path = GEint
+	url = https://github.com/cran/GEint
+	shallow = true
+	registered = true
+[submodule "ICSKAT"]
+	path = ICSKAT
+	url = https://github.com/cran/ICSKAT
+	shallow = true
+	registered = true
+[submodule "reconstructKM"]
+	path = reconstructKM
+	url = https://github.com/cran/reconstructKM
+	shallow = true
+	registered = true
