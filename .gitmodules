@@ -13,11 +13,6 @@
 	url = https://github.com/cran/GBJ
 	shallow = true
 	registered = true
-[submodule "GEint"]
-	path = GEint
-	url = https://github.com/cran/GEint
-	shallow = true
-	registered = true
 [submodule "ICSKAT"]
 	path = ICSKAT
 	url = https://github.com/cran/ICSKAT
