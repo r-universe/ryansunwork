@@ -11,6 +11,9 @@
 [submodule "ICSKAT"]
 	path = ICSKAT
 	url = https://github.com/cran/ICSKAT
+[submodule "csmGmm"]
+	path = csmGmm
+	url = https://github.com/cran/csmGmm
 [submodule "reconstructKM"]
 	path = reconstructKM
 	url = https://github.com/cran/reconstructKM
