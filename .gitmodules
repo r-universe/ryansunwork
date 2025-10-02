@@ -5,6 +5,9 @@
 [submodule "GBJ"]
 	path = GBJ
 	url = https://github.com/cran/GBJ
+[submodule "GEint"]
+	path = GEint
+	url = https://github.com/cran/GEint
 [submodule "ICSKAT"]
 	path = ICSKAT
 	url = https://github.com/cran/ICSKAT
